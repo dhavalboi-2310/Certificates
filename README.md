@@ -1,2 +1,2 @@
-# Certificates
-This repository contains the different "Statement of Accomplishments" I've obtained.
+# Happy to See You!
+This repo contains the certificates I've obtained, showcasing the skills and knowledge acquired by attaining the same.
